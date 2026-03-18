@@ -1,4 +1,4 @@
-﻿# Deploying Lumi to Vercel
+# Deploying Lumi to Vercel
 
 ## Prerequisites
 - A [GitHub](https://github.com) account
